@@ -105,7 +105,6 @@ This outlines:
 ├── screenshots/
 │   ├── sales_dashboard.png
 │   ├── customer_dashboard.png
-│   └── filters_navigation.png
 │
 └── README.md
 ```
